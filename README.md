@@ -1,4 +1,4 @@
-Agile User Stories Portfolio
+# Agile User Stories Portfolio
 
 This repository showcases my ability to write user stories and define acceptance criteria using Agile Scrum practices. These examples are based on practical business and data-focused scenarios that reflect real-world product and system requirements.
 

@@ -5,7 +5,7 @@ I am a System Analyst with experience in data analysis and Agile Scrum practices
 
 These examples reflect real-world scenarios focused on improving efficiency, automation, and decision-making.
 
-🛠 Skills & Practices
+🛠 Skills & Practices /n
 Agile Scrum methodology
 User story writing and backlog refinement
 Acceptance criteria definition

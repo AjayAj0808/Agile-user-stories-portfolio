@@ -76,15 +76,6 @@ Processing time is reduced
 Business Value:
 Enhances efficiency, reduces manual workload, and enables faster data-driven decisions.
 
-📈 What I Learned
-
-Writing clear and testable user stories
-
-Defining acceptance criteria for development and testing
-
-Translating business needs into technical requirements
-
-Applying Agile thinking to real-world scenarios
 
 
 📌 Project: Expense Tracking System
@@ -123,3 +114,15 @@ Alerts are timely and relevant
 
 Business Value:
 Improves user engagement and communication.
+
+
+📈 What I Learned
+
+Writing clear and testable user stories
+
+Defining acceptance criteria for development and testing
+
+Translating business needs into technical requirements
+
+Applying Agile thinking to real-world scenarios
+

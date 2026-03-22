@@ -21,7 +21,7 @@ Process improvement and automation
 📌 Project: Fitness Tracker
 
 User Story:
-As a fitness enthusiast, I want to track my daily calorie intake and expenditure so that I can achieve my fitness goals effectively.
+As a fitness enthusiast, I want to track my daily calorie intake and expenditure in my fitness life so that I can achieve my fitness goals effectively.
 
 Acceptance Criteria:
 
@@ -42,7 +42,7 @@ Helps users make informed health decisions and maintain consistency in achieving
 📌 Project: Vehicle Maintenance System
 
 User Story:
-As a vehicle owner, I want to receive maintenance reminders and track service history so that I can ensure optimal performance and longevity of my vehicle.
+As a vehicle owner, I want to receive maintenance reminders and track service history on my phone so that I can ensure optimal performance and longevity of my vehicle.
 
 Acceptance Criteria:
 
@@ -61,7 +61,7 @@ Improves vehicle reliability and reduces unexpected breakdowns through proactive
 📌 Project: Data Automation
 
 User Story:
-As a data analyst, I want to automate repetitive data processing tasks so that I can reduce manual effort and improve team productivity.
+As a data analyst, I want to automate repetitive data processing tasks based on my project experience so that I can reduce manual effort and improve team productivity.
 
 Acceptance Criteria:
 
@@ -85,3 +85,41 @@ Defining acceptance criteria for development and testing
 Translating business needs into technical requirements
 
 Applying Agile thinking to real-world scenarios
+
+
+📌 Project: Expense Tracking System
+
+User Story:
+As a user, I want to log my daily expenses in my financial book so that I can manage my finances effectively.
+
+Acceptance Criteria:
+
+User can add/edit/delete expenses
+
+Categories are available
+
+Monthly summary is displayed
+
+Reports can be generated
+
+Business Value:
+Helps users control spending and improve financial planning.
+
+
+📌 Project: Notification System
+
+User Story:
+As a user, I want to receive notifications for important updates on my Mobile so that I stay informed.
+
+Acceptance Criteria:
+
+Notifications are triggered based on events
+
+User can view notifications
+
+Notifications can be marked as read
+
+Alerts are timely and relevant
+
+Business Value:
+Improves user engagement and communication.

@@ -1,6 +1,6 @@
 Agile User Stories Portfolio
 
-About
+
 I am a System Analyst with experience in data analysis and Agile Scrum practices. This portfolio demonstrates my ability to translate business requirements into clear, structured user stories with well-defined acceptance criteria.
 
 These examples reflect real-world scenarios focused on improving efficiency, automation, and decision-making.

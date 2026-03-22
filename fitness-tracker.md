@@ -1,17 +1,19 @@
-# Agile User Stories Portfolio
+📌 Project: Fitness Tracker
 
-## About
-This repository showcases my ability to write user stories and define acceptance criteria using Agile Scrum practices.
+User Story:
+As a fitness enthusiast, I want to track my daily calorie intake and expenditure in my fitness life so that I can achieve my fitness goals effectively.
 
----
+Acceptance Criteria:
 
-## Project: Fitness Tracker
+User can input daily meals
 
-### User Story
-As a fitness enthusiast, I want to track my daily calorie intake so that I can achieve my fitness goals.
+System calculates total calories
 
-### Acceptance Criteria
-- User can input meals
-- System calculates total calories
-- User can track calorie deficit/surplus
+User can view calorie target
 
+System shows calorie deficit or surplus
+
+Data is stored for progress tracking
+
+Business Value:
+Helps users make informed health decisions and maintain consistency in achieving fitness goals.

@@ -24,6 +24,7 @@ User Story:
 As a fitness enthusiast, I want to track my daily calorie intake and expenditure so that I can achieve my fitness goals effectively.
 
 Acceptance Criteria:
+
 User can input daily meals
 
 System calculates total calories

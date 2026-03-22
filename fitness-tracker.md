@@ -1,19 +1,28 @@
 📌 Project: Fitness Tracker
 
-User Story:
-As a fitness enthusiast, I want to track my daily calorie intake and expenditure in my fitness life so that I can achieve my fitness goals effectively.
+## User Story
+As a fitness user, I want to log my daily calorie intake and calories burned so that I can monitor my progress toward my fitness goals.
 
-Acceptance Criteria:
+## Acceptance Criteria
+- User can enter meals with calorie values for a selected date
+- System calculates total calories consumed per day
+- User can log exercises with estimated calories burned
+- System displays net calories by comparing calories consumed and calories burned
+- User can view saved calorie and exercise data for previous dates
 
-User can input daily meals
+## Business Value
+This feature helps users make informed fitness decisions, stay consistent with their goals, and track daily health progress more effectively.
 
-System calculates total calories
+## Priority
+High
 
-User can view calorie target
+## Stakeholders
+- End User
+- Product Owner
+- Development Team
+- QA Team
 
-System shows calorie deficit or surplus
-
-Data is stored for progress tracking
-
-Business Value:
-Helps users make informed health decisions and maintain consistency in achieving fitness goals.
+## Assumptions
+- User has access to a registered account
+- Calorie values are entered manually or selected from available options
+- Data is stored securely and can be retrieved by date
